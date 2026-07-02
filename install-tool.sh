@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#install cert = sudo cp ~/Downloads/ca-root.cer /usr/local/share/ca-certificates/synack-root.crt && sudo update-ca-certificates
 #usage = curl -k -L https://raw.githubusercontent.com/derhund88/Linux-Automation/refs/heads/main/install-tool.sh | sh
 set -e
 
