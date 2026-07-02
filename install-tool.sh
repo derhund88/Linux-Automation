@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#usage = curl -k -L https://raw.githubusercontent.com/derhund88/Linux-Automation/refs/heads/main/install-tool.sh | sh
 set -e
 
 echo "===================================="
